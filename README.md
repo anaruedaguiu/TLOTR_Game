@@ -74,7 +74,7 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   En el momento en que un personaje llegue a un nivel de vida igual o inferior a cero se producirá su muerte por lo que se eliminará de su posición y se desplazarán todos sus compañeros en posiciones posteriores para cubrir la baja.
   De esa forma, alguno de los personajes inactivos podrá participar en la batalla en los siguientes turnos.
 
- ## Modo Consola 🛡️:
+ ## Modo Consola
 
   El proyecto está planteado para elaborarse de dos formas. El primero es el **Modo Consola**, que constará de una ejecución más sencilla.
   El programa mostrará por consola el discurrir de la batalla de forma que podamos comprobar que su funcionamiento es correcto.<br>
