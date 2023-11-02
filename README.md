@@ -2,7 +2,7 @@
 
 # Introducción | Introduction
 
-En este readme puedes encontrar la descripción del juego en [Español](#spanish-version) o en [Inglés](#english-version).<br>
+En este readme puedes encontrar la descripción del juego en [Español](#spanish-version) (🇪🇸) o en [Inglés](#english-version) (🇬🇧).<br>
 
 Se trata de un ejercicio planteado para hacerlo de dos formas: <br>
 **Modo Consola**, que es el que puedes encontrar en este repositorio. Y **Modo Interfaz Gráfica**, que puedes encontrar en ... <br>
@@ -12,13 +12,13 @@ La lógica es la misma, lo único que cambia entre las dos versiones es el modo 
   ---------------
 </p>
 
-In this readme, you can find the game description in [Spanish](#spanish-version) or in [English](#english-version).<br>
+In this readme, you can find the game description in [Spanish](#spanish-version) (🇪🇸) or in [English](#english-version) (🇬🇧).<br>
 
 This is an exercise designed to be done in two ways: <br>
 **Console Mode**, which is what you can find in this repository. And **Graphical User Interface (GUI) Mode**, which you can find in ... <br>
 The logic is the same, the only thing that changes between the two versions is the execution mode.
 
-# · Spanish Version (🇪🇸)
+# Spanish Version
 
 ## Tabla de contenidos 
 * [Descripción del juego](#descripción-del-juego)
@@ -74,7 +74,7 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   En el momento en que un personaje llegue a un nivel de vida igual o inferior a cero se producirá su muerte por lo que se eliminará de su posición y se desplazarán todos sus compañeros en posiciones posteriores para cubrir la baja.
   De esa forma, alguno de los personajes inactivos podrá participar en la batalla en los siguientes turnos.
 
- ## Modo Consola
+ ## Modo Consola 🛡️:
 
   El proyecto está planteado para elaborarse de dos formas. El primero es el **Modo Consola**, que constará de una ejecución más sencilla.
   El programa mostrará por consola el discurrir de la batalla de forma que podamos comprobar que su funcionamiento es correcto.<br>
@@ -88,7 +88,7 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   Una vez creamos los ejércitos se los pondrá a luchar y el resultado se verá a través de una ventana de texto de forma similar a como se hace en la consola.<br>
   Esta versión se ha desarrollado utilizando __*Java FX*__. Puedes encontrar el proyecto en el siguiente repositorio: ...
 
-# · English Version (🇬🇧)
+# English Version
 
 ## Table of contents
 * [Game's description](#game's-description)
