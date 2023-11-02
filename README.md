@@ -74,7 +74,7 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   En el momento en que un personaje llegue a un nivel de vida igual o inferior a cero se producirá su muerte por lo que se eliminará de su posición y se desplazarán todos sus compañeros en posiciones posteriores para cubrir la baja.
   De esa forma, alguno de los personajes inactivos podrá participar en la batalla en los siguientes turnos.
 
- ## Modo Consola 🛡️:
+ ## Modo Consola 🛡️
 
   El proyecto está planteado para elaborarse de dos formas. El primero es el **Modo Consola**, que constará de una ejecución más sencilla.
   El programa mostrará por consola el discurrir de la batalla de forma que podamos comprobar que su funcionamiento es correcto.<br>
@@ -82,7 +82,7 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   qué personajes (de los que ya vienen creados) quiere que conforme el bando que ha seleccionado, o si quiere formar el bando contrario eligiendo los personajes o al azar.
   Después de responder esta serie de preguntas, comienza la batalla aplicando la lógica del juego descrita anteriormente hasta que finalmente haya un bando vencedor.
 
- ## Modo Interfaz Gráfica 🧙:
+ ## Modo Interfaz Gráfica 🧙
 
   El segundo planteamiento es el **Modo Interfaz Gráfica**, que presenta una ejecución más elaborada. En esta versión se permitirá de forma interactiva crear los ejércitos de héroes y bestias.
   Una vez creamos los ejércitos se los pondrá a luchar y el resultado se verá a través de una ventana de texto de forma similar a como se hace en la consola.<br>
@@ -144,7 +144,7 @@ And in the Beasts faction, you can distinguish between: **Orcs** and **Goblins**
   When a character's life reaches zero or below, they will die, and they will be removed from their position, with all their comrades behind them moving to cover the vacancy.
   In this way, some of the inactive characters may participate in the battle in the following turns.
 
-## Console Mode 🛡️:
+## Console Mode 🛡️
 
 The project is designed to be developed in two ways. The first one is the **Console Mode**, which will feature a simpler execution.
 The program will display the course of the battle through the console so that we can verify that its operation is correct.<br>
@@ -152,7 +152,7 @@ In this particular case, some questions for the user are included right after st
 which side they want to belong to, which characters (from those already created) they want to form the selected side, or if they want to form the opposing side by choosing characters or at random.
 After answering this series of questions, the battle begins by applying the game logic described above until there is finally a winning faction
 
-## Graphical User Interface Mode 🧙:
+## Graphical User Interface Mode 🧙
 
 The second approach is the **Graphical User Interface (GUI) Mode**, which offers a more elaborate execution. In this version, it will be possible to interactively create the armies of heroes and beasts. 
 Once we create the armies, they will be set to battle, and the result will be displayed through a text window in a similar way to how it is done in the console.<br>
