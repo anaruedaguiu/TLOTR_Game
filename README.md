@@ -5,7 +5,8 @@
 En este readme puedes encontrar la descripción del juego en [Español](#spanish-version) (🇪🇸) o en [Inglés](#english-version) (🇬🇧).<br>
 
 Se trata de un ejercicio planteado para hacerlo de dos formas: <br>
-**Modo Consola**, que es el que puedes encontrar en este repositorio. Y **Modo Interfaz Gráfica**, que puedes encontrar en ... <br>
+**Modo Consola**, que es el que puedes encontrar en este repositorio.<br> 
+Y **Modo Interfaz Gráfica**, que puedes encontrar en 👉 _https://github.com/anaruedaguiu/TLOTR_Game_JavaFX_<br>
 La lógica es la misma, lo único que cambia entre las dos versiones es el modo de ejecución.
 
 <p align="center">
@@ -15,7 +16,8 @@ La lógica es la misma, lo único que cambia entre las dos versiones es el modo 
 In this readme, you can find the game description in [Spanish](#spanish-version) (🇪🇸) or in [English](#english-version) (🇬🇧).<br>
 
 This is an exercise designed to be done in two ways: <br>
-**Console Mode**, which is what you can find in this repository. And **Graphical User Interface (GUI) Mode**, which you can find in ... <br>
+**Console Mode**, which is what you can find in this repository.<br> 
+And **Graphical User Interface (GUI) Mode**, which you can find in the following repository: 👉 _https://github.com/anaruedaguiu/TLOTR_Game_JavaFX_.<br>
 The logic is the same, the only thing that changes between the two versions is the execution mode.
 
 # Spanish Version
@@ -23,9 +25,12 @@ The logic is the same, the only thing that changes between the two versions is t
 ## Tabla de contenidos 
 * [Descripción del juego](#descripción-del-juego)
 * [Modo Consola](#modo-consola)
-* [Modo Interfaz Gráfica](#modo-interfaz-grafica)
+* [Modo Interfaz Gráfica](#modo-interfaz-gráfica)
 
-## Descripción del juego 🎲
+## Descripción del juego
+
+<h3 align="center">· En este apartado se detalla la información de los requerimientos y características del juego 🎲</h3><br>
+
 La aplicación consiste en crear un juego basado en el famoso libro de fantasía de *El Señor De Los Anillos*.<br>
 Existirán dos tipos de personajes en el juego, es decir, dos bandos: **Héroes** & **Bestias**. 
 
@@ -74,7 +79,9 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   En el momento en que un personaje llegue a un nivel de vida igual o inferior a cero se producirá su muerte por lo que se eliminará de su posición y se desplazarán todos sus compañeros en posiciones posteriores para cubrir la baja.
   De esa forma, alguno de los personajes inactivos podrá participar en la batalla en los siguientes turnos.
 
- ## Modo Consola 🛡️
+ ## Modo Consola
+
+ <h3 align="center">· En este apartado se resume lo que se espera de la versión por consola 🛡️</h3><br>
 
   El proyecto está planteado para elaborarse de dos formas. El primero es el **Modo Consola**, que constará de una ejecución más sencilla.
   El programa mostrará por consola el discurrir de la batalla de forma que podamos comprobar que su funcionamiento es correcto.<br>
@@ -82,20 +89,30 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
   qué personajes (de los que ya vienen creados) quiere que conforme el bando que ha seleccionado, o si quiere formar el bando contrario eligiendo los personajes o al azar.
   Después de responder esta serie de preguntas, comienza la batalla aplicando la lógica del juego descrita anteriormente hasta que finalmente haya un bando vencedor.
 
- ## Modo Interfaz Gráfica 🧙
+ ## Modo Interfaz Gráfica
+
+ <h3 align="center">· En este apartado se resume lo que se espera de la versión con interfaz gráfica 🧙</h3><br>
 
   El segundo planteamiento es el **Modo Interfaz Gráfica**, que presenta una ejecución más elaborada. En esta versión se permitirá de forma interactiva crear los ejércitos de héroes y bestias.
   Una vez creamos los ejércitos se los pondrá a luchar y el resultado se verá a través de una ventana de texto de forma similar a como se hace en la consola.<br>
-  Esta versión se ha desarrollado utilizando __*Java FX*__. Puedes encontrar el proyecto en el siguiente repositorio: ...
+  Esta versión se ha desarrollado utilizando __*Java FX*__. 
+
+  · PARA SABER MÁS:<br> 
+    Puedes encontrar más información detallada en este mismo apartado del proyecto en el siguiente repositorio: 👉 _https://github.com/anaruedaguiu/TLOTR_Game_JavaFX_
 
 # English Version
 
+<h3 align="right">🇬🇧</h3>
+
 ## Table of contents
-* [Game's description](#game's-description)
-* [Console Mode](#cosole-mode)
+* [Game description](#game-description)
+* [Console Mode](#console-mode)
 * [Graphical User Interface Mode](#graphical-user-interface-mode)
 
-## Game's description 🎲
+## Game description
+
+<h3 align="center">· This section provides detailed information on the game's requirements and features 🎲</h3><br>
+
 The application aims to create a game based on the famous fantasy book *The Lord of the Rings*.<br>
 There will be two types of characters in the game, which means two sides: **Heroes** & **Beasts**.
 
@@ -144,7 +161,9 @@ And in the Beasts faction, you can distinguish between: **Orcs** and **Goblins**
   When a character's life reaches zero or below, they will die, and they will be removed from their position, with all their comrades behind them moving to cover the vacancy.
   In this way, some of the inactive characters may participate in the battle in the following turns.
 
-## Console Mode 🛡️
+## Console Mode
+
+<h3 align="center">· This section summarizes what is expected from the console version 🛡️</h3><br>
 
 The project is designed to be developed in two ways. The first one is the **Console Mode**, which will feature a simpler execution.
 The program will display the course of the battle through the console so that we can verify that its operation is correct.<br>
@@ -152,8 +171,13 @@ In this particular case, some questions for the user are included right after st
 which side they want to belong to, which characters (from those already created) they want to form the selected side, or if they want to form the opposing side by choosing characters or at random.
 After answering this series of questions, the battle begins by applying the game logic described above until there is finally a winning faction
 
-## Graphical User Interface Mode 🧙
+## Graphical User Interface Mode 
+
+<h3 align="center">· This section summarizes what is expected from the graphical user interface version 🧙</h3><br>
 
 The second approach is the **Graphical User Interface (GUI) Mode**, which offers a more elaborate execution. In this version, it will be possible to interactively create the armies of heroes and beasts. 
 Once we create the armies, they will be set to battle, and the result will be displayed through a text window in a similar way to how it is done in the console.<br>
-This version has been developed using __*Java FX*__. You can find the project in the following repository: ...
+This version has been developed using __*Java FX*__. 
+
+· TO LEARN MORE:<br>
+  You can find more detailed information in this section of the project on the following repository: 👉 _https://github.com/anaruedaguiu/TLOTR_Game_JavaFX_
