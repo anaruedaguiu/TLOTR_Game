@@ -102,8 +102,6 @@ Y en el bando de las bestias se podrá distinguir entre: **Orcos** y **Trasgos**
 
 # English Version
 
-<h3 align="right">🇬🇧</h3>
-
 ## Table of contents
 * [Game description](#game-description)
 * [Console Mode](#console-mode)
